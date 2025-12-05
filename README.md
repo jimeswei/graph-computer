@@ -11,4 +11,3 @@ The hugegraph-computer is a distributed graph processing system for hugegraph. I
 - You can load the data from HDFS or HugeGraph, output the results to HDFS or HugeGraph, or adapt any other systems manually as needed.
 - Easy to develop a new algorithm. You need to focus on a vertex only processing just like as in a single server, without worrying about message transfer and memory/storage management.
 # graph-computer
-# graph-computer

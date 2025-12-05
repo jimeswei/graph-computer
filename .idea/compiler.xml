@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="computer-k8s" />
+        <module name="computer-dist" />
+        <module name="computer-algorithm" />
+        <module name="computer-k8s-operator" />
+        <module name="computer-driver" />
+        <module name="computer-test" />
+        <module name="computer-yarn" />
+        <module name="computer-core" />
+        <module name="computer-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="computer-algorithm" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-api" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-core" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-dist" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-driver" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-k8s" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-k8s-operator" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-test" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="computer-yarn" options="-Xmaxerrs 500 -Xlint:unchecked" />
+      <module name="hugegraph-computer" options="-Xmaxerrs 500 -Xlint:unchecked" />
+    </option>
+  </component>
+</project>

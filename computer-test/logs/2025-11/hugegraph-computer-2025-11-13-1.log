@@ -1,0 +1,144 @@
+2025-11-13 16:58:39 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-13 16:58:39 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?726147820] Start to initialize master
+2025-11-13 16:58:39 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?1992636478] Prepare to init WorkerService
+2025-11-13 16:58:39 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-13 16:58:39 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-13 16:58:39 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.c.c.i.MasterInputManager - Master create 1 vertex splits, 1 edge splits
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.c.RpcRuntimeContext - Welcome! Loading SOFA RPC Framework : 5.7.6_20200908155956, PID is:86340
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: fault-tolerance
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module sofaTracer-resteasy does not need to be loaded.
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module lookout does not need to be loaded.
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: sofaTracer
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.c.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.remoting Log4j2 ]
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.s.b.BoltServer - Bolt server has been bind to 127.0.0.1:8090
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.r.RpcServer - RpcServer started success on port 8090
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?726147820] MasterService started rpc server: 127.0.0.1:8090
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] register MasterService
+2025-11-13 16:58:40 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) waited master init-done: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-13 16:58:40 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set init-done, master info: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers init-done
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.AggregateRpcService, size is : 1
+2025-11-13 16:58:41 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.AggregateRpcService-6-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.AggregateRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:53936
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.i.WorkerInputManager - Created parallel sending thread pool, thread num: 4
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.InputSplitRpcService, size is : 1
+2025-11-13 16:58:41 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.InputSplitRpcService-9-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.InputSplitRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:53936
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] c.a.s.r.t.Tracers - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@196329fa
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] c.a.s.r.c.s.SofaHessianSerializer - Version of sofa-hessian is v3.x
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.s.FileManager - The directories '[jobs]' configured to persist data for job algo_test_job1
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyTransportServer - The TransportServer started on address 127.0.0.1:8086, took 6 ms
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager initialized with address '/127.0.0.1:8086'
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager inited
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] WorkerService initialized managers with data server address '/127.0.0.1:8086'
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Loading computation 'page_rank' in category 'centrality'
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Combiner 'org.apache.hugegraph.computer.core.combiner.DoubleValueSumCombiner' is provided for computation 'page_rank'
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] register WorkerService
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker set init-done: 127.0.0.1:8086
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(-1) is waiting for master all-init-done
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited all workers init-done, workers: [ContainerInfo{"id":-1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set all-init-done, workers [ContainerInfo{"id":1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(127.0.0.1:8086) assigned id 1 from master
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master all-init-done, workers: [ContainerInfo{"id":1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] waited all workers registered, workers count: 1
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService initialized
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService execute
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService resume from superstep: -1
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyClientFactory - Successfully created connection to '127.0.0.1:8086' after 6 ms
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set resume-done(-1)
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService inputstep started
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers input-done
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - Successfully connect to worker: 1(127.0.0.1:8086)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Add client 127.0.0.1:8086[0] for worker 1
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.c.ComputeManager - Created partition compute thread pool, thread num: 4
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService initialized
+2025-11-13 16:58:41 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - The send-executor is running
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService execute
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master resume-done
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master resume-done(-1)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService inputstep started
+2025-11-13 16:58:41 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=VERTEX)
+2025-11-13 16:58:41 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=VERTEX,count=0,bytes=0)
+2025-11-13 16:58:41 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=EDGE)
+2025-11-13 16:58:41 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=EDGE,count=0,bytes=0)
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set input-done
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers input-done
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set input-done
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master input-done
+2025-11-13 16:58:41 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master input-done
+2025-11-13 16:58:41 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-done(-1)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-done(-1), worker stat: WorkerStat{"workerId":1,"partitionStats":[]}
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-done(-1)
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-done(-1), workers stat: [WorkerStat{"workerId":1,"partitionStats":[]}]
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-done(-1), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-done(-1), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService inputstep finished with superstat SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService inputstep finished
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Start computation of superstep 0
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService input step cost: 0.347s
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService superstep 0 started
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-prepare-done(0)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-prepare-done(0)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-prepare-done(0)
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-prepare-done
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-prepare-done(0)
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-compute-done(0)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-prepare-done(0)
+2025-11-13 16:58:42 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=MSG)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.u.Consumers - Starting 4 workers[partition-compute] with queue size 4000...
+2025-11-13 16:58:42 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=MSG,count=0,bytes=0)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-compute-done(0)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-compute-done(0)
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-compute-done
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-compute-done(0)
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-done(0)
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-compute-done(0)
+2025-11-13 16:58:42 [SOFA-SEV-BOLT-BIZ-8090-3-T13] [INFO] o.a.h.c.c.a.MasterAggrManager - Master aggregate aggregators: {pagerank.aggr_l1_norm_difference=0.0, pagerank.dangling_vertices_num=0, pagerank.comulative_probability=0.0, pagerank.comulative_dangling_probability=0.0}
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-done(0), worker stat: WorkerStat{"workerId":1,"partitionStats":[]}
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - End computation of superstep 0
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-done(0)
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-done(0), workers stat: [WorkerStat{"workerId":1,"partitionStats":[]}]
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.a.c.p.PageRank4Master - PageRank running status: [Superstep 0], dangling vertices num = 0, cumulative dangling probability = 0.0, cumulative probability = 0.0, l1 norm difference = 0.0
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-done(0), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":false}
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-done(0), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":false}
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService superstep 0 finished
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService compute step cost: 0.422s
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService outputstep started
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers output-done
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers output-done
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set output-done
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService outputstep finished
+2025-11-13 16:58:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService outputstep finished
+2025-11-13 16:58:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService output step cost: 0.035s
+2025-11-13 16:58:42 [main] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-13 16:58:42 [main] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager closed with address '/127.0.0.1:8086'
+2025-11-13 16:58:42 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - The send-executor is terminated
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager closed
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set close-done
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.b.BspBase - Closed etcd BSP connection 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService closed
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers close-done
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers close-done
+2025-11-13 16:58:42 [main] [INFO] o.a.h.r.RpcServer - RpcServer stop on port 8090
+2025-11-13 16:58:42 [main] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-13 16:58:42 [main] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.b.BspBase - Closed etcd BSP connection 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-13 16:58:42 [main] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService closed
+2025-11-13 16:58:42 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-13 16:58:42 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.t.ClientTransportFactory - Shutdown all client transport now!
+2025-11-13 16:58:42 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: fault-tolerance
+2025-11-13 16:58:42 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: sofaTracer
+2025-11-13 16:58:42 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework has been release all resources ...

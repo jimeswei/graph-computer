@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/computer-algorithm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-algorithm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-dist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-dist/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-driver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-driver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-k8s-operator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-k8s-operator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-k8s/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-k8s/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-yarn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/computer-yarn/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

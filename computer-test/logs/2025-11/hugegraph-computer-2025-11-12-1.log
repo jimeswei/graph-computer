@@ -1,0 +1,1106 @@
+2025-11-12 00:07:34 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 00:23:29 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 00:23:59 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 00:39:54 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 00:55:49 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 00:56:19 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 01:12:14 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 01:20:36 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 01:21:06 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 02:25:56 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 03:13:59 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 04:03:36 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 05:18:14 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 05:18:44 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 06:26:43 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 06:46:50 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 07:02:29 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 07:17:04 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 07:34:38 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:02:55 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:04:16 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:04:46 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:06:04 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:06:34 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:58:43 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 08:59:13 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 09:15:30 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 09:49:27 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 09:50:38 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 10:16:10 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 10:16:40 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 10:19:47 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 10:37:35 [main] [INFO] o.a.h.c.c.b.EtcdClient - Wait for keys with prefix 'BSP_WORKER_CLOSE_DONE' and timeout 86400000ms, expect 1 keys but actual got 0 keys
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.s.ServerFactory - Destroy all server now!
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.t.ClientTransportFactory - Shutdown all client transport now!
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: fault-tolerance
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: sofaTracer
+2025-11-12 10:51:19 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework has been release all resources ...
+2025-11-12 10:51:30 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-12 10:51:30 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?889114173] Prepare to init WorkerService
+2025-11-12 10:51:30 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?302779852] Start to initialize master
+2025-11-12 10:51:30 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-12 10:51:31 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 10:51:31 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] o.a.h.c.c.i.MasterInputManager - Master create 1 vertex splits, 1 edge splits
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.r.c.RpcRuntimeContext - Welcome! Loading SOFA RPC Framework : 5.7.6_20200908155956, PID is:76929
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: fault-tolerance
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module sofaTracer-resteasy does not need to be loaded.
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module lookout does not need to be loaded.
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: sofaTracer
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:51:31 [pool-2-thread-2] [INFO] c.a.s.c.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.remoting Log4j2 ]
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] c.a.s.r.s.b.BoltServer - Bolt server has been bind to 127.0.0.1:8090
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.r.RpcServer - RpcServer started success on port 8090
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?302779852] MasterService started rpc server: 127.0.0.1:8090
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] register MasterService
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) waited master init-done: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set init-done, master info: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 10:51:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers init-done
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.AggregateRpcService, size is : 1
+2025-11-12 10:51:32 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.AggregateRpcService-6-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.AggregateRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:51536
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] o.a.h.c.c.i.WorkerInputManager - Created parallel sending thread pool, thread num: 4
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.InputSplitRpcService, size is : 1
+2025-11-12 10:51:32 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.InputSplitRpcService-9-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.InputSplitRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:51536
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] c.a.s.r.t.Tracers - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@5a5c7809
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] c.a.s.r.c.s.SofaHessianSerializer - Version of sofa-hessian is v3.x
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] o.a.h.c.c.s.FileManager - The directories '[jobs]' configured to persist data for job algo_test_job1
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyTransportServer - The TransportServer started on address 127.0.0.1:8086, took 5 ms
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager initialized with address '/127.0.0.1:8086'
+2025-11-12 10:51:32 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager inited
+2025-11-12 10:51:32 [pool-2-thread-1] [ERROR] o.a.h.c.c.w.WorkerService - Error while initializing WorkerService
+java.net.ConnectException: Failed to connect to /127.0.0.1:8080
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.10.0.jar:?]
+	at org.apache.hugegraph.rest.AbstractRestClient.request(AbstractRestClient.java:399) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:367) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:350) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.api.version.VersionAPI.get(VersionAPI.java:39) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.VersionManager.getApiVersion(VersionManager.java:43) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.checkServerApiVersion(HugeClient.java:132) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.initManagers(HugeClient.java:116) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.<init>(HugeClient.java:87) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClientBuilder.build(HugeClientBuilder.java:75) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.input.hg.HugeGraphFetcher.<init>(HugeGraphFetcher.java:42) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.InputSourceFactory.createGraphFetcher(InputSourceFactory.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.load.LoadService.init(LoadService.java:76) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.WorkerInputManager.init(WorkerInputManager.java:91) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.initAll(Managers.java:59) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.initManagers(WorkerService.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:110) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.10.0.jar:?]
+	... 39 more
+2025-11-12 10:51:32 [pool-2-thread-1] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start worker
+java.net.ConnectException: Failed to connect to /127.0.0.1:8080
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.10.0.jar:?]
+	at org.apache.hugegraph.rest.AbstractRestClient.request(AbstractRestClient.java:399) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:367) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:350) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.api.version.VersionAPI.get(VersionAPI.java:39) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.VersionManager.getApiVersion(VersionManager.java:43) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.checkServerApiVersion(HugeClient.java:132) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.initManagers(HugeClient.java:116) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.<init>(HugeClient.java:87) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClientBuilder.build(HugeClientBuilder.java:75) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.input.hg.HugeGraphFetcher.<init>(HugeGraphFetcher.java:42) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.InputSourceFactory.createGraphFetcher(InputSourceFactory.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.load.LoadService.init(LoadService.java:76) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.WorkerInputManager.init(WorkerInputManager.java:91) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.initAll(Managers.java:59) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.initManagers(WorkerService.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:110) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.10.0.jar:?]
+	... 39 more
+2025-11-12 10:51:32 [main] [WARN] o.a.h.c.c.w.WorkerService - The computeManager is null
+2025-11-12 10:51:32 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers close-done
+2025-11-12 10:51:58 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-12 10:51:58 [pool-2-thread-2] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start master
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Interrupted while getting with prefix='BSP_WORKER_INIT_DONE', count=1, timeout=100000
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.getWithPrefix(EtcdClient.java:304) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.getChildren(EtcdBspClient.java:78) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Master.waitOnWorkersEvent(Bsp4Master.java:204) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Master.waitWorkersInitDone(Bsp4Master.java:56) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.master.MasterService.init(MasterService.java:116) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$1(AlgorithmTestBase.java:123) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056) ~[?:?]
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2221) ~[?:?]
+	at org.apache.hugegraph.concurrent.BarrierEvent.await(BarrierEvent.java:64) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient$WaitEvent.await(EtcdClient.java:446) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.waitAndPrefixGetFromPutEvent(EtcdClient.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.getWithPrefix(EtcdClient.java:296) ~[classes/:?]
+	... 11 more
+2025-11-12 10:51:58 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.s.ServerFactory - Destroy all server now!
+2025-11-12 10:51:58 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:51:58 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:51:58 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 10:52:07 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-12 10:52:07 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?2027274187] Start to initialize master
+2025-11-12 10:52:07 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?338081167] Prepare to init WorkerService
+2025-11-12 10:52:07 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-12 10:52:07 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 10:52:07 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-12 10:52:08 [pool-2-thread-2] [INFO] o.a.h.c.c.i.MasterInputManager - Master create 1 vertex splits, 1 edge splits
+2025-11-12 10:52:08 [pool-2-thread-2] [INFO] c.a.s.r.c.RpcRuntimeContext - Welcome! Loading SOFA RPC Framework : 5.7.6_20200908155956, PID is:76948
+2025-11-12 10:52:08 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: fault-tolerance
+2025-11-12 10:52:08 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module sofaTracer-resteasy does not need to be loaded.
+2025-11-12 10:52:08 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module lookout does not need to be loaded.
+2025-11-12 10:52:08 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: sofaTracer
+2025-11-12 10:52:18 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:52:18 [pool-2-thread-2] [INFO] c.a.s.c.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.remoting Log4j2 ]
+2025-11-12 10:52:18 [pool-2-thread-2] [INFO] c.a.s.r.s.b.BoltServer - Bolt server has been bind to 127.0.0.1:8090
+2025-11-12 10:52:18 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:52:18 [pool-2-thread-2] [INFO] o.a.h.r.RpcServer - RpcServer started success on port 8090
+2025-11-12 10:52:32 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?2027274187] MasterService started rpc server: 127.0.0.1:8090
+2025-11-12 10:52:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 10:52:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 10:52:32 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] register MasterService
+2025-11-12 10:52:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set init-done, master info: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 10:52:32 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) waited master init-done: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 10:52:32 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers init-done
+2025-11-12 10:52:32 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 10:52:32 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.AggregateRpcService, size is : 1
+2025-11-12 10:52:32 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.AggregateRpcService-6-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.AggregateRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:51572
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] o.a.h.c.c.i.WorkerInputManager - Created parallel sending thread pool, thread num: 4
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.InputSplitRpcService, size is : 1
+2025-11-12 10:52:33 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.InputSplitRpcService-9-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.InputSplitRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:51572
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] c.a.s.r.t.Tracers - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@6d1b35c3
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] c.a.s.r.c.s.SofaHessianSerializer - Version of sofa-hessian is v3.x
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] o.a.h.c.c.s.FileManager - The directories '[jobs]' configured to persist data for job algo_test_job1
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyTransportServer - The TransportServer started on address 127.0.0.1:8086, took 6 ms
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager initialized with address '/127.0.0.1:8086'
+2025-11-12 10:52:33 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager inited
+2025-11-12 10:52:33 [pool-2-thread-1] [ERROR] o.a.h.c.c.w.WorkerService - Error while initializing WorkerService
+java.net.ConnectException: Failed to connect to /127.0.0.1:8080
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.10.0.jar:?]
+	at org.apache.hugegraph.rest.AbstractRestClient.request(AbstractRestClient.java:399) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:367) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:350) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.api.version.VersionAPI.get(VersionAPI.java:39) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.VersionManager.getApiVersion(VersionManager.java:43) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.checkServerApiVersion(HugeClient.java:132) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.initManagers(HugeClient.java:116) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.<init>(HugeClient.java:87) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClientBuilder.build(HugeClientBuilder.java:75) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.input.hg.HugeGraphFetcher.<init>(HugeGraphFetcher.java:42) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.InputSourceFactory.createGraphFetcher(InputSourceFactory.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.load.LoadService.init(LoadService.java:76) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.WorkerInputManager.init(WorkerInputManager.java:91) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.initAll(Managers.java:59) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.initManagers(WorkerService.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:110) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.10.0.jar:?]
+	... 39 more
+2025-11-12 10:52:33 [pool-2-thread-1] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start worker
+java.net.ConnectException: Failed to connect to /127.0.0.1:8080
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.10.0.jar:?]
+	at org.apache.hugegraph.rest.AbstractRestClient.request(AbstractRestClient.java:399) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:367) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:350) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.api.version.VersionAPI.get(VersionAPI.java:39) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.VersionManager.getApiVersion(VersionManager.java:43) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.checkServerApiVersion(HugeClient.java:132) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.initManagers(HugeClient.java:116) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.<init>(HugeClient.java:87) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClientBuilder.build(HugeClientBuilder.java:75) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.input.hg.HugeGraphFetcher.<init>(HugeGraphFetcher.java:42) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.InputSourceFactory.createGraphFetcher(InputSourceFactory.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.load.LoadService.init(LoadService.java:76) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.WorkerInputManager.init(WorkerInputManager.java:91) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.initAll(Managers.java:59) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.initManagers(WorkerService.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:110) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.10.0.jar:?]
+	... 39 more
+2025-11-12 10:52:33 [main] [WARN] o.a.h.c.c.w.WorkerService - The computeManager is null
+2025-11-12 10:52:33 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers close-done
+2025-11-12 10:52:56 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-12 10:52:56 [pool-2-thread-2] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start master
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Interrupted while getting with prefix='BSP_WORKER_INIT_DONE', count=1, timeout=100000
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.getWithPrefix(EtcdClient.java:304) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.getChildren(EtcdBspClient.java:78) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Master.waitOnWorkersEvent(Bsp4Master.java:204) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Master.waitWorkersInitDone(Bsp4Master.java:56) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.master.MasterService.init(MasterService.java:116) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$1(AlgorithmTestBase.java:123) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056) ~[?:?]
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2221) ~[?:?]
+	at org.apache.hugegraph.concurrent.BarrierEvent.await(BarrierEvent.java:64) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient$WaitEvent.await(EtcdClient.java:446) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.waitAndPrefixGetFromPutEvent(EtcdClient.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.getWithPrefix(EtcdClient.java:296) ~[classes/:?]
+	... 11 more
+2025-11-12 10:52:56 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.s.ServerFactory - Destroy all server now!
+2025-11-12 10:52:56 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:52:56 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:52:56 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 10:52:56 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 10:53:04 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-12 10:53:04 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?555299486] Prepare to init WorkerService
+2025-11-12 10:53:04 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?2101813041] Start to initialize master
+2025-11-12 10:53:04 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-12 10:53:04 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 10:53:04 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.i.MasterInputManager - Master create 1 vertex splits, 1 edge splits
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.c.RpcRuntimeContext - Welcome! Loading SOFA RPC Framework : 5.7.6_20200908155956, PID is:76982
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: fault-tolerance
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module sofaTracer-resteasy does not need to be loaded.
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module lookout does not need to be loaded.
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: sofaTracer
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.c.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.remoting Log4j2 ]
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.s.b.BoltServer - Bolt server has been bind to 127.0.0.1:8090
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.r.RpcServer - RpcServer started success on port 8090
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?2101813041] MasterService started rpc server: 127.0.0.1:8090
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] register MasterService
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set init-done, master info: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) waited master init-done: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 10:53:05 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers init-done
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.AggregateRpcService, size is : 1
+2025-11-12 10:53:05 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.AggregateRpcService-6-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.AggregateRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:51594
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] o.a.h.c.c.i.WorkerInputManager - Created parallel sending thread pool, thread num: 4
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.InputSplitRpcService, size is : 1
+2025-11-12 10:53:05 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.InputSplitRpcService-9-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.InputSplitRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:51594
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] c.a.s.r.t.Tracers - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@6bee1ea7
+2025-11-12 10:53:05 [pool-2-thread-1] [INFO] c.a.s.r.c.s.SofaHessianSerializer - Version of sofa-hessian is v3.x
+2025-11-12 10:53:06 [pool-2-thread-1] [INFO] o.a.h.c.c.s.FileManager - The directories '[jobs]' configured to persist data for job algo_test_job1
+2025-11-12 10:53:06 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyTransportServer - The TransportServer started on address 127.0.0.1:8086, took 7 ms
+2025-11-12 10:53:06 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager initialized with address '/127.0.0.1:8086'
+2025-11-12 10:53:06 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager inited
+2025-11-12 10:53:06 [pool-2-thread-1] [ERROR] o.a.h.c.c.w.WorkerService - Error while initializing WorkerService
+java.net.ConnectException: Failed to connect to /127.0.0.1:8080
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.10.0.jar:?]
+	at org.apache.hugegraph.rest.AbstractRestClient.request(AbstractRestClient.java:399) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:367) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:350) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.api.version.VersionAPI.get(VersionAPI.java:39) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.VersionManager.getApiVersion(VersionManager.java:43) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.checkServerApiVersion(HugeClient.java:132) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.initManagers(HugeClient.java:116) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.<init>(HugeClient.java:87) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClientBuilder.build(HugeClientBuilder.java:75) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.input.hg.HugeGraphFetcher.<init>(HugeGraphFetcher.java:42) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.InputSourceFactory.createGraphFetcher(InputSourceFactory.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.load.LoadService.init(LoadService.java:76) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.WorkerInputManager.init(WorkerInputManager.java:91) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.initAll(Managers.java:59) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.initManagers(WorkerService.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:110) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.10.0.jar:?]
+	... 39 more
+2025-11-12 10:53:06 [pool-2-thread-1] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start worker
+java.net.ConnectException: Failed to connect to /127.0.0.1:8080
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.10.0.jar:?]
+	at org.apache.hugegraph.rest.AbstractRestClient.request(AbstractRestClient.java:399) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:367) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.rest.AbstractRestClient.get(AbstractRestClient.java:350) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.api.version.VersionAPI.get(VersionAPI.java:39) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.VersionManager.getApiVersion(VersionManager.java:43) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.checkServerApiVersion(HugeClient.java:132) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.initManagers(HugeClient.java:116) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClient.<init>(HugeClient.java:87) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.driver.HugeClientBuilder.build(HugeClientBuilder.java:75) ~[hugegraph-client-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.input.hg.HugeGraphFetcher.<init>(HugeGraphFetcher.java:42) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.InputSourceFactory.createGraphFetcher(InputSourceFactory.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.load.LoadService.init(LoadService.java:76) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.input.WorkerInputManager.init(WorkerInputManager.java:91) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.initAll(Managers.java:59) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.initManagers(WorkerService.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:110) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128) ~[okhttp-4.10.0.jar:?]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.10.0.jar:?]
+	... 39 more
+2025-11-12 10:53:06 [main] [WARN] o.a.h.c.c.w.WorkerService - The computeManager is null
+2025-11-12 10:53:06 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers close-done
+2025-11-12 10:53:25 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-12 10:53:25 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.s.ServerFactory - Destroy all server now!
+2025-11-12 10:53:25 [pool-2-thread-2] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start master
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Interrupted while getting with prefix='BSP_WORKER_INIT_DONE', count=1, timeout=100000
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.getWithPrefix(EtcdClient.java:304) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.getChildren(EtcdBspClient.java:78) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Master.waitOnWorkersEvent(Bsp4Master.java:204) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Master.waitWorkersInitDone(Bsp4Master.java:56) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.master.MasterService.init(MasterService.java:116) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$1(AlgorithmTestBase.java:123) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056) ~[?:?]
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2221) ~[?:?]
+	at org.apache.hugegraph.concurrent.BarrierEvent.await(BarrierEvent.java:64) ~[hugegraph-common-1.3.0.jar:1.3.0]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient$WaitEvent.await(EtcdClient.java:446) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.waitAndPrefixGetFromPutEvent(EtcdClient.java:354) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.getWithPrefix(EtcdClient.java:296) ~[classes/:?]
+	... 11 more
+2025-11-12 10:53:25 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 10:53:25 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 10:53:25 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 11:09:45 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-12 11:09:45 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?671277045] Prepare to init WorkerService
+2025-11-12 11:09:45 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?176814591] Start to initialize master
+2025-11-12 11:09:45 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-12 11:09:46 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://127.0.0.1:2379' for job 'algo_test_job1'
+2025-11-12 11:09:46 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-12 11:09:46 [pool-2-thread-1] [ERROR] o.a.h.c.c.w.WorkerService - Error while initializing WorkerService
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Error while getting with key='BSP_MASTER_INIT_DONE'
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.get(EtcdClient.java:157) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.get(EtcdBspClient.java:72) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Worker.waitMasterInitDone(Bsp4Worker.java:51) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:109) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1999) ~[?:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.get(EtcdClient.java:146) ~[classes/:?]
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at com.google.common.util.concurrent.AbstractFuture.getDoneValue(AbstractFuture.java:566) ~[guava-30.0-jre.jar:?]
+	at com.google.common.util.concurrent.AbstractFuture.get(AbstractFuture.java:527) ~[guava-30.0-jre.jar:?]
+	at io.etcd.jetcd.ClientConnectionManager.lambda$execute$3(ClientConnectionManager.java:351) ~[jetcd-core-0.5.4.jar:?]
+	... 3 more
+Caused by: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at io.grpc.Status.asRuntimeException(Status.java:533) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.stub.ClientCalls$UnaryStreamToFuture.onClose(ClientCalls.java:533) ~[grpc-stub-1.33.0.jar:1.33.0]
+	at io.grpc.PartialForwardingClientCallListener.onClose(PartialForwardingClientCallListener.java:39) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:23) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener$SimpleForwardingClientCallListener.onClose(ForwardingClientCallListener.java:40) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.etcd.jetcd.ClientConnectionManager$AuthTokenInterceptor$1$1.onClose(ClientConnectionManager.java:394) ~[jetcd-core-0.5.4.jar:?]
+	at io.grpc.internal.DelayedClientCall$DelayedListener$3.run(DelayedClientCall.java:463) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.DelayedClientCall$DelayedListener.delayOrExecute(DelayedClientCall.java:427) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.DelayedClientCall$DelayedListener.onClose(DelayedClientCall.java:460) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:616) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.access$300(ClientCallImpl.java:69) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:802) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:781) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123) ~[grpc-core-1.33.0.jar:1.33.0]
+	... 3 more
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:2379
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:779) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:327) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:688) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1044) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	... 1 more
+2025-11-12 11:09:46 [pool-2-thread-1] [ERROR] o.a.h.c.a.AlgorithmTestBase - Failed to start worker
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Error while getting with key='BSP_MASTER_INIT_DONE'
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.get(EtcdClient.java:157) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.get(EtcdBspClient.java:72) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Worker.waitMasterInitDone(Bsp4Worker.java:51) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:109) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1999) ~[?:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.get(EtcdClient.java:146) ~[classes/:?]
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at com.google.common.util.concurrent.AbstractFuture.getDoneValue(AbstractFuture.java:566) ~[guava-30.0-jre.jar:?]
+	at com.google.common.util.concurrent.AbstractFuture.get(AbstractFuture.java:527) ~[guava-30.0-jre.jar:?]
+	at io.etcd.jetcd.ClientConnectionManager.lambda$execute$3(ClientConnectionManager.java:351) ~[jetcd-core-0.5.4.jar:?]
+	... 3 more
+Caused by: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at io.grpc.Status.asRuntimeException(Status.java:533) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.stub.ClientCalls$UnaryStreamToFuture.onClose(ClientCalls.java:533) ~[grpc-stub-1.33.0.jar:1.33.0]
+	at io.grpc.PartialForwardingClientCallListener.onClose(PartialForwardingClientCallListener.java:39) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:23) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener$SimpleForwardingClientCallListener.onClose(ForwardingClientCallListener.java:40) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.etcd.jetcd.ClientConnectionManager$AuthTokenInterceptor$1$1.onClose(ClientConnectionManager.java:394) ~[jetcd-core-0.5.4.jar:?]
+	at io.grpc.internal.DelayedClientCall$DelayedListener$3.run(DelayedClientCall.java:463) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.DelayedClientCall$DelayedListener.delayOrExecute(DelayedClientCall.java:427) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.DelayedClientCall$DelayedListener.onClose(DelayedClientCall.java:460) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:616) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.access$300(ClientCallImpl.java:69) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:802) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:781) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123) ~[grpc-core-1.33.0.jar:1.33.0]
+	... 3 more
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:2379
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:779) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:327) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:688) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1044) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	... 1 more
+2025-11-12 11:09:46 [main] [WARN] o.a.h.c.c.w.WorkerService - The computeManager is null
+2025-11-12 11:09:46 [main] [ERROR] o.a.h.c.c.m.MasterService - Error occurred while closing managers
+java.lang.NullPointerException: null
+	at org.apache.hugegraph.computer.core.rpc.MasterRpcManager.close(MasterRpcManager.java:48) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.manager.Managers.closeAll(Managers.java:71) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.master.MasterService.close(MasterService.java:168) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.runAlgorithm(AlgorithmTestBase.java:143) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.centrality.pagerank.PageRankTest.testRunAlgorithm(PageRankTest.java:27) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) ~[junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) ~[junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) ~[junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) ~[junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) ~[junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) ~[junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:?]
+2025-11-12 11:09:46 [main] [INFO] o.a.h.c.c.m.MasterService - [master ?176814591] MasterService closed
+2025-11-12 11:09:46 [main] [WARN] o.a.h.c.s.u.UnitTestBase - There exist error:
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Error while getting with key='BSP_MASTER_INIT_DONE'
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.get(EtcdClient.java:157) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.get(EtcdBspClient.java:72) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.Bsp4Worker.waitMasterInitDone(Bsp4Worker.java:51) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.init(WorkerService.java:109) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.MockWorkerService.init(MockWorkerService.java:29) ~[classes/:?]
+	at org.apache.hugegraph.computer.algorithm.AlgorithmTestBase.lambda$runAlgorithm$0(AlgorithmTestBase.java:81) ~[classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1999) ~[?:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.get(EtcdClient.java:146) ~[classes/:?]
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at com.google.common.util.concurrent.AbstractFuture.getDoneValue(AbstractFuture.java:566) ~[guava-30.0-jre.jar:?]
+	at com.google.common.util.concurrent.AbstractFuture.get(AbstractFuture.java:527) ~[guava-30.0-jre.jar:?]
+	at io.etcd.jetcd.ClientConnectionManager.lambda$execute$3(ClientConnectionManager.java:351) ~[jetcd-core-0.5.4.jar:?]
+	... 3 more
+Caused by: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at io.grpc.Status.asRuntimeException(Status.java:533) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.stub.ClientCalls$UnaryStreamToFuture.onClose(ClientCalls.java:533) ~[grpc-stub-1.33.0.jar:1.33.0]
+	at io.grpc.PartialForwardingClientCallListener.onClose(PartialForwardingClientCallListener.java:39) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:23) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener$SimpleForwardingClientCallListener.onClose(ForwardingClientCallListener.java:40) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.etcd.jetcd.ClientConnectionManager$AuthTokenInterceptor$1$1.onClose(ClientConnectionManager.java:394) ~[jetcd-core-0.5.4.jar:?]
+	at io.grpc.internal.DelayedClientCall$DelayedListener$3.run(DelayedClientCall.java:463) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.DelayedClientCall$DelayedListener.delayOrExecute(DelayedClientCall.java:427) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.DelayedClientCall$DelayedListener.onClose(DelayedClientCall.java:460) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:616) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.access$300(ClientCallImpl.java:69) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:802) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:781) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123) ~[grpc-core-1.33.0.jar:1.33.0]
+	... 3 more
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:2379
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:779) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:327) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:688) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1044) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	... 1 more
+2025-11-12 11:09:46 [Thread-2] [WARN] o.a.h.c.c.u.ShutdownHook - Failed to execute shutdown hook: Failed to clean up the BSP data: http://127.0.0.1:2379
+org.apache.hugegraph.computer.core.common.exception.ComputerException: Failed to clean up the BSP data: http://127.0.0.1:2379
+	at org.apache.hugegraph.computer.core.bsp.BspBase.clean(BspBase.java:92) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.cleanAndCloseBsp(WorkerService.java:228) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.worker.WorkerService.lambda$registerShutdownHook$0(WorkerService.java:158) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.util.ShutdownHook.lambda$hook$0(ShutdownHook.java:37) ~[classes/:?]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: org.apache.hugegraph.computer.core.common.exception.ComputerException: ExecutionException is thrown while deleting with prefix ''
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.deleteWithPrefix(EtcdClient.java:398) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.deleteAllKvsInNamespace(EtcdClient.java:405) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.clean(EtcdBspClient.java:57) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.BspBase.clean(BspBase.java:89) ~[classes/:?]
+	... 4 more
+Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1999) ~[?:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.deleteWithPrefix(EtcdClient.java:392) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdClient.deleteAllKvsInNamespace(EtcdClient.java:405) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.EtcdBspClient.clean(EtcdBspClient.java:57) ~[classes/:?]
+	at org.apache.hugegraph.computer.core.bsp.BspBase.clean(BspBase.java:89) ~[classes/:?]
+	... 4 more
+Caused by: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at com.google.common.util.concurrent.AbstractFuture.getDoneValue(AbstractFuture.java:566) ~[guava-30.0-jre.jar:?]
+	at com.google.common.util.concurrent.AbstractFuture.get(AbstractFuture.java:527) ~[guava-30.0-jre.jar:?]
+	at io.etcd.jetcd.ClientConnectionManager.lambda$execute$3(ClientConnectionManager.java:351) ~[jetcd-core-0.5.4.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	... 1 more
+Caused by: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at io.grpc.Status.asRuntimeException(Status.java:533) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.stub.ClientCalls$UnaryStreamToFuture.onClose(ClientCalls.java:533) ~[grpc-stub-1.33.0.jar:1.33.0]
+	at io.grpc.PartialForwardingClientCallListener.onClose(PartialForwardingClientCallListener.java:39) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:23) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.grpc.ForwardingClientCallListener$SimpleForwardingClientCallListener.onClose(ForwardingClientCallListener.java:40) ~[grpc-api-1.33.0.jar:1.33.0]
+	at io.etcd.jetcd.ClientConnectionManager$AuthTokenInterceptor$1$1.onClose(ClientConnectionManager.java:394) ~[jetcd-core-0.5.4.jar:?]
+	at io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:616) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl.access$300(ClientCallImpl.java:69) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:802) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:781) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37) ~[grpc-core-1.33.0.jar:1.33.0]
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123) ~[grpc-core-1.33.0.jar:1.33.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	... 1 more
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:2379
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:779) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:327) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:688) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1044) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	... 1 more
+2025-11-12 11:11:36 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-12 11:11:36 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?1419702181] Prepare to init WorkerService
+2025-11-12 11:11:36 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?381733717] Start to initialize master
+2025-11-12 11:11:36 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-12 11:11:36 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:11:36 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-12 11:11:37 [pool-2-thread-2] [INFO] o.a.h.c.c.i.MasterInputManager - Master create 1 vertex splits, 1 edge splits
+2025-11-12 11:11:37 [pool-2-thread-2] [INFO] c.a.s.r.c.RpcRuntimeContext - Welcome! Loading SOFA RPC Framework : 5.7.6_20200908155956, PID is:78496
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: fault-tolerance
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module sofaTracer-resteasy does not need to be loaded.
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module lookout does not need to be loaded.
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: sofaTracer
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.c.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.remoting Log4j2 ]
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.s.b.BoltServer - Bolt server has been bind to 127.0.0.1:8090
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.r.RpcServer - RpcServer started success on port 8090
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?381733717] MasterService started rpc server: 127.0.0.1:8090
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] register MasterService
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) waited master init-done: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set init-done, master info: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 11:11:38 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers init-done
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.AggregateRpcService, size is : 1
+2025-11-12 11:11:38 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.AggregateRpcService-6-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.AggregateRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:52567
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] o.a.h.c.c.i.WorkerInputManager - Created parallel sending thread pool, thread num: 4
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.InputSplitRpcService, size is : 1
+2025-11-12 11:11:38 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.InputSplitRpcService-9-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.InputSplitRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:52567
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] c.a.s.r.t.Tracers - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@fedc678
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] c.a.s.r.c.s.SofaHessianSerializer - Version of sofa-hessian is v3.x
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] o.a.h.c.c.s.FileManager - The directories '[jobs]' configured to persist data for job algo_test_job1
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyTransportServer - The TransportServer started on address 127.0.0.1:8086, took 5 ms
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager initialized with address '/127.0.0.1:8086'
+2025-11-12 11:11:38 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager inited
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] WorkerService initialized managers with data server address '/127.0.0.1:8086'
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Loading computation 'page_rank' in category 'centrality'
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Combiner 'org.apache.hugegraph.computer.core.combiner.DoubleValueSumCombiner' is provided for computation 'page_rank'
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] register WorkerService
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker set init-done: 127.0.0.1:8086
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(-1) is waiting for master all-init-done
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited all workers init-done, workers: [ContainerInfo{"id":-1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set all-init-done, workers [ContainerInfo{"id":1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(127.0.0.1:8086) assigned id 1 from master
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master all-init-done, workers: [ContainerInfo{"id":1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] waited all workers registered, workers count: 1
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService initialized
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService execute
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService resume from superstep: -1
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set resume-done(-1)
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService inputstep started
+2025-11-12 11:11:42 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers input-done
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyClientFactory - Successfully created connection to '127.0.0.1:8086' after 11 ms
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - Successfully connect to worker: 1(127.0.0.1:8086)
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Add client 127.0.0.1:8086[0] for worker 1
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.c.ComputeManager - Created partition compute thread pool, thread num: 4
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService initialized
+2025-11-12 11:11:42 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - The send-executor is running
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService execute
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master resume-done
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master resume-done(-1)
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService inputstep started
+2025-11-12 11:11:42 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:11:42 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=VERTEX)
+2025-11-12 11:11:43 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=VERTEX,count=0,bytes=0)
+2025-11-12 11:11:43 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=EDGE)
+2025-11-12 11:11:43 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=EDGE,count=0,bytes=0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set input-done
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master input-done
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers input-done
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set input-done
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master input-done
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-done(-1)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-done(-1), worker stat: WorkerStat{"workerId":1,"partitionStats":[]}
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-done(-1), workers stat: [WorkerStat{"workerId":1,"partitionStats":[]}]
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-done(-1)
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-done(-1), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService inputstep finished with superstat SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService input step cost: 0.434s
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService superstep 0 started
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-prepare-done(0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-done(-1), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService inputstep finished
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Start computation of superstep 0
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-prepare-done(0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-prepare-done(0)
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-prepare-done
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-prepare-done(0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-prepare-done(0)
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-compute-done(0)
+2025-11-12 11:11:43 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=MSG)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.u.Consumers - Starting 4 workers[partition-compute] with queue size 4000...
+2025-11-12 11:11:43 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=MSG,count=0,bytes=0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-compute-done(0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-compute-done(0)
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-compute-done
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-compute-done(0)
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-done(0)
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-compute-done(0)
+2025-11-12 11:11:43 [SOFA-SEV-BOLT-BIZ-8090-3-T13] [INFO] o.a.h.c.c.a.MasterAggrManager - Master aggregate aggregators: {pagerank.aggr_l1_norm_difference=0.0, pagerank.dangling_vertices_num=0, pagerank.comulative_probability=0.0, pagerank.comulative_dangling_probability=0.0}
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-done(0), worker stat: WorkerStat{"workerId":1,"partitionStats":[]}
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - End computation of superstep 0
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-done(0)
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-done(0), workers stat: [WorkerStat{"workerId":1,"partitionStats":[]}]
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.a.c.p.PageRank4Master - PageRank running status: [Superstep 0], dangling vertices num = 0, cumulative dangling probability = 0.0, cumulative probability = 0.0, l1 norm difference = 0.0
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-done(0), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":false}
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService superstep 0 finished
+2025-11-12 11:11:43 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-done(0), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":false}
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService compute step cost: 0.576s
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService outputstep started
+2025-11-12 11:11:43 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers output-done
+2025-11-12 11:11:44 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set output-done
+2025-11-12 11:11:44 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService outputstep finished
+2025-11-12 11:11:44 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers output-done
+2025-11-12 11:11:44 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService outputstep finished
+2025-11-12 11:11:44 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService output step cost: 0.217s
+2025-11-12 11:11:44 [main] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 11:11:44 [main] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager closed with address '/127.0.0.1:8086'
+2025-11-12 11:11:44 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - The send-executor is terminated
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager closed
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set close-done
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.b.BspBase - Closed etcd BSP connection 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService closed
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers close-done
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers close-done
+2025-11-12 11:11:44 [main] [INFO] o.a.h.r.RpcServer - RpcServer stop on port 8090
+2025-11-12 11:11:44 [main] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 11:11:44 [main] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.b.BspBase - Closed etcd BSP connection 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:11:44 [main] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService closed
+2025-11-12 11:11:44 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-12 11:11:44 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.t.ClientTransportFactory - Shutdown all client transport now!
+2025-11-12 11:11:44 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: fault-tolerance
+2025-11-12 11:11:44 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: sofaTracer
+2025-11-12 11:11:44 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework has been release all resources ...
+2025-11-12 11:18:20 [main] [INFO] o.a.h.c.s.u.UnitTestBase - Setup for UnitTestSuite of hugegraph-computer
+2025-11-12 11:18:20 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?1925598205] Start to initialize master
+2025-11-12 11:18:20 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker ?39039200] Prepare to init WorkerService
+2025-11-12 11:18:20 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] Start to initialize worker
+2025-11-12 11:18:21 [pool-2-thread-1] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:18:21 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) is waiting for master init-done
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.i.MasterInputManager - Master create 1 vertex splits, 1 edge splits
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.c.RpcRuntimeContext - Welcome! Loading SOFA RPC Framework : 5.7.6_20200908155956, PID is:78665
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: fault-tolerance
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module sofaTracer-resteasy does not need to be loaded.
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - The module lookout does not need to be loaded.
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.m.ModuleFactory - Install Module: sofaTracer
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.c.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.remoting Log4j2 ]
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.s.b.BoltServer - Bolt server has been bind to 127.0.0.1:8090
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Export provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.r.RpcServer - RpcServer started success on port 8090
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master ?1925598205] MasterService started rpc server: 127.0.0.1:8090
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Init etcd BSP connection to 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] register MasterService
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(:-1) waited master init-done: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set init-done, master info: ContainerInfo{"id":0,"hostname":"127.0.0.1","rpcPort":8090,"dataPort":-1}
+2025-11-12 11:18:22 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers init-done
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.AggregateRpcService, size is : 1
+2025-11-12 11:18:22 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.AggregateRpcService-6-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.AggregateRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:52728
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] o.a.h.c.c.i.WorkerInputManager - Created parallel sending thread pool, thread num: 4
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - Refer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Add provider of org.apache.hugegraph.computer.core.rpc.InputSplitRpcService, size is : 1
+2025-11-12 11:18:22 [SOFA-CLI-CONN-org.apache.hugegraph.computer.core.rpc.InputSplitRpcService-9-T1] [INFO] c.a.s.r.c.AllConnectConnectionHolder - Connect to org.apache.hugegraph.computer.core.rpc.InputSplitRpcService provider:127.0.0.1:8090 success ! The connection is 127.0.0.1:8090 <-> 127.0.0.1:52728
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] c.a.s.r.t.Tracers - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@34c802fe
+2025-11-12 11:18:22 [pool-2-thread-1] [INFO] c.a.s.r.c.s.SofaHessianSerializer - Version of sofa-hessian is v3.x
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.FileManager - The directories '[jobs]' configured to persist data for job algo_test_job1
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyTransportServer - The TransportServer started on address 127.0.0.1:8086, took 6 ms
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager initialized with address '/127.0.0.1:8086'
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager inited
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] WorkerService initialized managers with data server address '/127.0.0.1:8086'
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Loading computation 'page_rank' in category 'centrality'
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Combiner 'org.apache.hugegraph.computer.core.combiner.DoubleValueSumCombiner' is provided for computation 'page_rank'
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker -1] register WorkerService
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker set init-done: 127.0.0.1:8086
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited all workers init-done, workers: [ContainerInfo{"id":-1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(-1) is waiting for master all-init-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set all-init-done, workers [ContainerInfo{"id":1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] waited all workers registered, workers count: 1
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService initialized
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService execute
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService resume from superstep: -1
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set resume-done(-1)
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService inputstep started
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers input-done
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(127.0.0.1:8086) assigned id 1 from master
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master all-init-done, workers: [ContainerInfo{"id":1,"hostname":"127.0.0.1","rpcPort":-1,"dataPort":8086}]
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.n.n.NettyClientFactory - Successfully created connection to '127.0.0.1:8086' after 8 ms
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.n.DataClientManager - Successfully connect to worker: 1(127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Add client 127.0.0.1:8086[0] for worker 1
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.c.ComputeManager - Created partition compute thread pool, thread num: 4
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService initialized
+2025-11-12 11:18:23 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - The send-executor is running
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService execute
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master resume-done
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master resume-done(-1)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService inputstep started
+2025-11-12 11:18:23 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=VERTEX)
+2025-11-12 11:18:23 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=VERTEX,count=0,bytes=0)
+2025-11-12 11:18:23 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=EDGE)
+2025-11-12 11:18:23 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=EDGE,count=0,bytes=0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set input-done
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master input-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers input-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set input-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-done(-1)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master input-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-done(-1), workers stat: [WorkerStat{"workerId":1,"partitionStats":[]}]
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-done(-1), worker stat: WorkerStat{"workerId":1,"partitionStats":[]}
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-done(-1)
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-done(-1), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService inputstep finished with superstat SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService input step cost: 0.428s
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService superstep 0 started
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-prepare-done(0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-done(-1), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":true}
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService inputstep finished
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - Start computation of superstep 0
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-prepare-done(0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-prepare-done(0)
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-prepare-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-prepare-done(0)
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-compute-done(0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-prepare-done(0)
+2025-11-12 11:18:23 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Start session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Start sending message(type=MSG)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.u.Consumers - Starting 4 workers[partition-compute] with queue size 4000...
+2025-11-12 11:18:23 [transport-netty-client-5-1] [INFO] o.a.h.c.c.s.QueuedMessageSender - Finish session connected to workerId=1(remoteAddress=/127.0.0.1:8086)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.s.MessageSendManager - Finish sending message(type=MSG,count=0,bytes=0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-compute-done(0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-compute-done(0)
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-compute-done
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-compute-done(0)
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers superstep-done(0)
+2025-11-12 11:18:23 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-compute-done(0)
+2025-11-12 11:18:23 [SOFA-SEV-BOLT-BIZ-8090-3-T13] [INFO] o.a.h.c.c.a.MasterAggrManager - Master aggregate aggregators: {pagerank.aggr_l1_norm_difference=0.0, pagerank.dangling_vertices_num=0, pagerank.comulative_probability=0.0, pagerank.comulative_dangling_probability=0.0}
+2025-11-12 11:18:23 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers superstep-done(0), workers stat: [WorkerStat{"workerId":1,"partitionStats":[]}]
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.a.c.p.PageRank4Master - PageRank running status: [Superstep 0], dangling vertices num = 0, cumulative dangling probability = 0.0, cumulative probability = 0.0, l1 norm difference = 0.0
+2025-11-12 11:18:24 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set superstep-done(0), worker stat: WorkerStat{"workerId":1,"partitionStats":[]}
+2025-11-12 11:18:24 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - End computation of superstep 0
+2025-11-12 11:18:24 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) is waiting for master superstep-done(0)
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master set superstep-done(0), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":false}
+2025-11-12 11:18:24 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) waited master superstep-done(0), graph stat: SuperstepStat{"vertexCount":0,"edgeCount":0,"finishedVertexCount":0,"messageSendCount":0,"messageSendBytes":0,"messageRecvCount":0,"messageRecvBytes":0,"active":false}
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService superstep 0 finished
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService compute step cost: 0.378s
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService outputstep started
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers output-done
+2025-11-12 11:18:24 [pool-2-thread-1] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set output-done
+2025-11-12 11:18:24 [pool-2-thread-1] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService outputstep finished
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers output-done
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService outputstep finished
+2025-11-12 11:18:24 [pool-2-thread-2] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService output step cost: 0.051s
+2025-11-12 11:18:24 [main] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.AggregateRpcService: with bean id rpc-cfg-2
+2025-11-12 11:18:24 [main] [INFO] c.a.s.r.b.DefaultConsumerBootstrap - UnRefer consumer config : bolt://org.apache.hugegraph.computer.core.rpc.InputSplitRpcService: with bean id rpc-cfg-3
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.n.DataServerManager - DataServerManager closed with address '/127.0.0.1:8086'
+2025-11-12 11:18:24 [send-executor] [INFO] o.a.h.c.c.s.QueuedMessageSender - The send-executor is terminated
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.n.DataClientManager - DataClientManager closed
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.b.Bsp4Worker - Worker(1) set close-done
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.b.BspBase - Closed etcd BSP connection 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.w.WorkerService - [worker 1] WorkerService closed
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master is waiting for workers close-done
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.b.Bsp4Master - Master waited workers close-done
+2025-11-12 11:18:24 [main] [INFO] o.a.h.r.RpcServer - RpcServer stop on port 8090
+2025-11-12 11:18:24 [main] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.InputSplitRpcService::bolt with bean id rpc-cfg-0
+2025-11-12 11:18:24 [main] [INFO] c.a.s.r.b.DefaultProviderBootstrap - Unexport provider config : org.apache.hugegraph.computer.core.rpc.AggregateRpcService::bolt with bean id rpc-cfg-1
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.b.BspBase - Cleaned up the BSP data: http://192.168.3.78:2379
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.b.BspBase - Closed etcd BSP connection 'http://192.168.3.78:2379' for job 'algo_test_job1'
+2025-11-12 11:18:24 [main] [INFO] o.a.h.c.c.m.MasterService - [master 0] MasterService closed
+2025-11-12 11:18:24 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2025-11-12 11:18:24 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.t.ClientTransportFactory - Shutdown all client transport now!
+2025-11-12 11:18:24 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: fault-tolerance
+2025-11-12 11:18:24 [SOFA-RPC-ShutdownHook] [INFO] c.a.s.r.m.ModuleFactory - Uninstall Module: sofaTracer
+2025-11-12 11:18:24 [SOFA-RPC-ShutdownHook] [WARN] c.a.s.r.c.RpcRuntimeContext - SOFA RPC Framework has been release all resources ...
